@@ -11,8 +11,9 @@ ML engineer and researcher building **explainable AI for clinical decision suppo
 
 | Project | What it shows |
 | --- | --- |
+| [ckd-care-gap-agent](https://github.com/sharifuzzamanmd/ckd-care-gap-agent) | Explainable AI agent that finds undiagnosed chronic kidney disease in routine health data: leakage-free model on NHANES, SHAP explanations, local LLM clinician notes, clinician approval on every action. In active development. |
 | [clinical-risk-api](https://github.com/sharifuzzamanmd/clinical-risk-api) | Chronic kidney disease risk API: stacking ensemble + SHAP explanations, FastAPI, Docker, 17 tests, CI |
-
+| [Optimized-ML-Stacking-Hybrid-CKD-Prediction](https://github.com/sharifuzzamanmd/Optimized-ML-Stacking-Hybrid-CKD-Prediction) | Code and results for my AIAI 2025 paper |
 ### Selected publications
 
 - **M. Sharifuzzaman** et al. *Optimized Machine Learning Models and Stacking Hybrid Approach for Chronic Kidney Disease Prediction.* AIAI 2025, Springer. [DOI](https://doi.org/10.1007/978-3-031-96235-6_15) · [code](https://github.com/sharifuzzamanmd/clinical-risk-api)
